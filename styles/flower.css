@@ -56,8 +56,45 @@ border-radius: 5px;
 }
 /* feature flower style */
 
+.feature-content{
+    width: 594px;
+    text-align: center;
+    margin: 0 auto;
+    padding-top: 170px;
+}
+
+.feature-content h3 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 700;
+} 
+.feature-content p{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+
 .feature-flower{
+    display: flex;
+    padding: 0 240px;
+    justify-content: space-between;
+}
+
+.feature-flower img {
+  width: 310px;
+  height: 428px;
+  position: relative;
+  top: 109px;
+}
+.feature-flower p{
     text-align: center;
 }
- 
+
+.feature-flower-bg{
+    width: 464px;
+    height: 538px;
+    background-color: #ddd;
+}
+
 
