@@ -131,3 +131,33 @@ font-size: 18px;;
 font-weight: 400;
 line-height: 30px;
  }
+
+ /* instragram style */
+
+ .instragram-story{
+    padding: 128px 240px;
+ }
+
+ .instragram-conet{
+    width: 600px;
+    text-align: center;
+    margin: 0 auto;
+ }
+
+ .instragram-conet h2 {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 700;
+ }
+ .nstragram-conet p {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+ }
+
+ .instragram-image{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 48px;
+ }
