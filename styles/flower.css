@@ -1,0 +1,63 @@
+/* Header related style */
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&family=Open+Sans:wght@800&display=swap');
+
+
+body{
+    font-family: 'Lato', sans-serif;
+
+}
+
+.head{
+    background: rgba(229, 84, 115, 0.10);
+    p
+}
+/* .container{
+    width:80%;
+    margin:0 auto;
+} */
+.banner{
+    display: flex;
+    justify-content: space-between;
+    padding: 150px 240px;
+
+    
+}
+.banner-content{
+    display: flex;
+    align-items:center;
+}
+/* .banner-content-size{
+    width:780px;
+} */
+.banner-title{
+    width:708px;
+    height:288px;
+}
+.banner-description{
+    width: 690px;
+    height: 90px;
+}
+.banner-img img{
+}
+.banner-title{
+    color: #272727;
+    font-size: 80px;
+    font-weight: 800;
+}
+.banner-btn{
+background-color: red;
+padding:15px 40px;
+font-size: 20px;
+color: azure;
+border: none;
+border-radius: 5px;
+
+}
+/* feature flower style */
+
+.feature-flower{
+    text-align: center;
+}
+ 
+
