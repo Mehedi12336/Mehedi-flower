@@ -77,8 +77,8 @@ line-height: 30px;
 
 .feature-flower{
     display: flex;
-    padding: 0 240px;
-    justify-content: space-between;
+   justify-content: space-between;
+   padding: 0 240px;
 }
 
 .feature-flower img {
@@ -97,4 +97,37 @@ line-height: 30px;
     background-color: #ddd;
 }
 
+ /* hot deal  */
 
+ .hot-deal-section{
+    background: rgba(229, 84, 115, 0.05);
+ }
+
+ .hot-deal {
+    display: flex;
+    padding: 100px 425px;
+    justify-content: space-between;
+ }
+
+ .hot-deal-content{
+    display: flex;
+    align-items: center;
+ }
+
+ .hot-width{
+    width: 530px;
+    text-align: center;
+ }
+ .hot-width h3{
+    color: #272727;
+font-size: 40px;
+font-weight: 700;
+ }
+
+ .hot-width p {
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-size: 18px;;
+font-weight: 400;
+line-height: 30px;
+ }
